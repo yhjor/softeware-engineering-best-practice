@@ -1,4 +1,4 @@
-# softeware-engineering-best-practice
+# software-engineering-best-practice
 Hand-picked resources for Software Engineering
 
 ## Version Control
